@@ -1,3 +1,4 @@
 # Demo-Repository
-This is Demo  Repository
-Author - Jelly
+This is Demo  Repository.
+<br />
+Author - Jelly.
